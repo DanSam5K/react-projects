@@ -6,7 +6,7 @@ In this project I will use my knowledge of react and build a bunch of applicatio
 #### useState
 
 1. Birthday Reminder
-   [Click here to view Birthday-reminder app](https://bidayreminder.netlify.app/)
+   [Click here <a href="https://bidayreminder.netlify.app/" target="_blank"><img src="./images/bidayapp.PNG" alt="birthday app"/></a>](https://bidayreminder.netlify.app/)
 
 #### useEffect and Conditional Rendering
 
